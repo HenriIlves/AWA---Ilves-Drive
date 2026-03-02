@@ -14,7 +14,7 @@ Cloud drive -style project where users can register/login and make text document
 
 ``` Bash
 git https://github.com/HenriIlves/AWA---Ilves-Drive.git
-cd AWA - Ilves Drive
+cd AWA---Ilves-Drive
 ```
 
 ``` Bash
